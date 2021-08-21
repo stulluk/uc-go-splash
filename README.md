@@ -18,3 +18,9 @@ And I also added a simple Makefile to build for both arm64 and amd64
 
 run ```make```
 
+## Usage
+
+```
+sudo ucsp-amd64 /path/to/your_png_file.png
+sudo ucsp-arm64 /path/to/your_png_file.png
+```
