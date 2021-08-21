@@ -24,3 +24,7 @@ run ```make```
 sudo ucsp-amd64 /path/to/your_png_file.png
 sudo ucsp-arm64 /path/to/your_png_file.png
 ```
+
+## Screenshot
+
+![uc-go-splash on Ubuntu Core](sc.png)
